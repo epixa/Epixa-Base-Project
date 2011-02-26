@@ -1,0 +1,9 @@
+Epixa - Epixa-Base-Project
+
+Copyright 2011 epixa.com - Court Ewing
+License: http://github.com/epixa/Epixa-Base-Project/blob/master/LICENSE New BSD
+Authored by Court Ewing (court@epixa.com)
+
+A base project structure for an MVC web application based on the Epixa library 
+and Zend Framework.  Doctrine2 is included and configured by default, but it is 
+trivial to remove it from the setup.
